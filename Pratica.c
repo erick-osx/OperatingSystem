@@ -90,7 +90,7 @@ int main(){
     printf("C6 real = %f imag = %f \n", c6.real,c6.imag);
     printf("C7 norma = %f \n", c7);
     printf("C8 conjugado= %f \n", c8);
-    printf("C6 real = %f imag = %f \n", c9.real,c6.imag);
+    printf("C9 real = %f imag = %f \n", c9.real,c9.imag);
     printf(" ");
     return 0;
 }
