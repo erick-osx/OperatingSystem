@@ -1,0 +1,10 @@
+{
+    "window.zoomLevel": -1,
+    "git.suggestSmartCommit": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -lm -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    
+    }
+
+}
